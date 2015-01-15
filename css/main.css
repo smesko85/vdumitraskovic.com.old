@@ -134,6 +134,9 @@ WIDGETS
   background-color: #59689a;
 }
 
+#flm-widget-container > img {
+  border-radius: 100%;
+}
 
 /* Treehouse */
 
